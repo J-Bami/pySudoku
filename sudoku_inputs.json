@@ -1,0 +1,9 @@
+{
+    "CELLS_PER_REGION_X": 3,
+    "CELLS_PER_REGION_Y": 3,
+    "REGIONS_X": 3,
+    "REGIONS_Y": 3,
+    "CHARACTER_SET": null,
+    "INPUT_FILE": null,
+    "INPUT_TABLE": null
+}
